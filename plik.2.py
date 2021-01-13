@@ -1,0 +1,1 @@
+print("Fajny kod")
